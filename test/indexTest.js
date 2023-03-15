@@ -15,8 +15,8 @@ describe('index.js', function () {
   });
 
   describe('mostProfitableNeighborhood', function () {
-    it('is declared as equal to Chelsea', function () {
-      expect(mostProfitableNeighborhood).to.equal('Chelsea');
+    it('is declared as equal to Acquires', function () {
+      expect(mostProfitableNeighborhood).to.equal('Acquires');
     });
 
     it('is defined using let', function () {
@@ -25,8 +25,8 @@ describe('index.js', function () {
   });
 
   describe('companyCeo', function () {
-    it('is declared as equal to Susan Smith', function () {
-      expect(companyCeo).to.equal('Susan Smith');
+    it('is declared as equal to Rhorsy', function () {
+      expect(companyCeo).to.equal('Rhorsy');
     });
 
     it('is defined using let', function () {
